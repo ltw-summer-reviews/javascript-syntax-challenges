@@ -15,7 +15,7 @@ Complete these series of six little challenges for learning Javascript syntax. T
 
 ### 1. Letter looper
 
-**[▸ View the demo video]()**
+**[▸ View the demo video](https://www.youtube.com/watch?v=kwK-DLrxcEo)**
 
 Create a function in Javascript that will request the user enter a letter and write that letter out ten times.
 
@@ -36,7 +36,7 @@ a
 
 ### 2. Letter looper triangle
 
-**[▸ View the demo video]()**
+**[▸ View the demo video](https://www.youtube.com/watch?v=E5CgQbyRm2w)**
 
 Take the letter looper a step further by creating a triangle out of the letters: line 1 should have 1 copy, line 2 should have 2 copies, all the way to the 10th line having 10 copies of the letter.
 
@@ -57,7 +57,7 @@ aaaaaaaaaa
 
 ### 3. Hello, Person
 
-**[▸ View the demo video]()**
+**[▸ View the demo video](https://www.youtube.com/watch?v=_CvgZPSHDLw)**
 
 Create a small application that shows a text form field to the user, they can enter their name, press a button, and the application will write: “Hello, Thomas.” (or whatever their name is).
 
@@ -69,7 +69,7 @@ Hello, Thomas.
 
 ### 4. Name judger
 
-**[▸ View the demo video]()**
+**[▸ View the demo video](https://www.youtube.com/watch?v=il_K6CivGcY)**
 
 Similar to the above application, but instead write out different sayings based on what name they enter. 
 
@@ -91,7 +91,7 @@ Edith is a really great name!
 
 ### 5. Phrasal template word game 
 
-**[▸ View the demo video]()**
+**[▸ View the demo video](https://www.youtube.com/watch?v=usDh0jWJ_2U)**
 
 Create a form that accepts a bunch of words, like verbs, nouns, etc. Those words will be placed into a template to generate a fun story, like *Mad Libs*.
 
@@ -99,7 +99,7 @@ Create a form that accepts a bunch of words, like verbs, nouns, etc. Those words
 
 ### 6. Interactive story
 
-**[▸ View the demo video]()**
+**[▸ View the demo video](https://www.youtube.com/watch?v=YsAtD-Fdp1U)**
 
 Create a interactive multiple choice story, like *Choose Your Own Adventure*. Each answered question branches the story in a different direction.
 
