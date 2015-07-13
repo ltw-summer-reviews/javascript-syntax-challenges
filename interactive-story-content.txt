@@ -1,0 +1,58 @@
+What’s your name?
+
+Once upon a time there was a wonderful person, named {name}, who set out on a quest to…
+
+A. find an ancient lost treasure.
+B. discover an advanced alien race.
+
+---
+
+{ If A is answered: }
+
+Knowing it was hidden in a small coat pocket, {name} pulled out a treasure map and set off to find the “x”.
+
+Coming to a rickety, rope bridge, {name} had to decide to go…
+
+1. over the bridge.
+2. under the bridge.
+3. back home.
+
+  { If 1 is answered: }
+
+  {name} crossed the bridge and found the wonderful, ancient treasure!
+  The End.
+
+  { If 2 is answered: }
+
+  {name} died a horrible, gory death by crocodiles under the bridge.
+  The End.
+
+  { If 3 is answered: }
+
+  {name} went home a scared and disappointed fool.
+  The End.
+
+---
+
+{ If B is answered: }
+
+Uncovering a one-person rocket ship hidden under a pile of leaves, {name} ignited the switch and sped off towards…
+
+1. Venus.
+2. Mars.
+3. Neptune.
+
+  { If 1 is answered: }
+
+  {name} was thrown violently around the storms of Venus, crashing into a fiery volcano of death.
+  The End.
+
+  { If 2 is answered: }
+
+  {name} landed on the planet Mars to a great fanfare and was treated like royalty till the end of days.
+  The End.
+
+  { If 3 is answered: }
+
+  {name}’s rocket sputtered down to the frozen wasteland and found nothing.
+  The End.

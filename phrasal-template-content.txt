@@ -1,0 +1,22 @@
+1. Color
+2. Superlative (ending in “est”)
+3. Adjective
+4. Body part (plural)
+5. Body part
+6. Noun
+7. Food (plural)
+8. Adjective
+9. Adjective
+10. Adjective
+
+---
+
+The {1: Color} dragon is the {2: Superlative} dragon of all.
+
+It has {3: Adjective} {4: Body part}, and a {5: Body part} shaped like a {6: Noun}.
+
+It loves to eat {7: Food}, although it will feast on nearly anything.
+
+It is {8: Adjective} and {9: Adjective}.
+
+You must be {10: Adjective} around it, or you may end up as it’s meal!
