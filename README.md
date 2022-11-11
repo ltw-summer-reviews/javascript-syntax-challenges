@@ -2,7 +2,7 @@
 
 A summer review project to practice basic Javascript.
 
-#### [⬇ Download the content](https://github.com/acgd-summer-reviews/javascript-syntax-challenges/archive/master.zip)
+#### [⬇ Download the content](https://github.com/ltw-summer-reviews/javascript-syntax-challenges/archive/master.zip)
 
 ---
 
@@ -71,7 +71,7 @@ Hello, Thomas.
 
 **[▸ View the demo video](https://www.youtube.com/watch?v=il_K6CivGcY)**
 
-Similar to the above application, but instead write out different sayings based on what name they enter. 
+Similar to the above application, but instead write out different sayings based on what name they enter.
 
 Come up with some sort of name judging logic and display a message for different conditions. The logic could be how many letters long it is, or what letter it starts with, or the actual name itself.
 
@@ -89,13 +89,13 @@ My name starts with a “T” too, Tamara.
 Edith is a really great name!
 ```
 
-### 5. Phrasal template word game 
+### 5. Phrasal template word game
 
 **[▸ View the demo video](https://www.youtube.com/watch?v=usDh0jWJ_2U)**
 
 Create a form that accepts a bunch of words, like verbs, nouns, etc. Those words will be placed into a template to generate a fun story, like *Mad Libs*.
 
-[You can use the content provided in the download](https://github.com/acgd-summer-reviews/javascript-syntax-challenges/archive/master.zip) or make up your own.
+[You can use the content provided in the download](https://github.com/ltw-summer-reviews/javascript-syntax-challenges/archive/master.zip) or make up your own.
 
 ### 6. Interactive story
 
@@ -103,7 +103,7 @@ Create a form that accepts a bunch of words, like verbs, nouns, etc. Those words
 
 Create a interactive multiple choice story, like *Choose Your Own Adventure*. Each answered question branches the story in a different direction.
 
-[You can use the content provided in the download](https://github.com/acgd-summer-reviews/javascript-syntax-challenges/archive/master.zip) or make up your own story.
+[You can use the content provided in the download](https://github.com/ltw-summer-reviews/javascript-syntax-challenges/archive/master.zip) or make up your own story.
 
 ---
 
@@ -123,11 +123,11 @@ Create a interactive multiple choice story, like *Choose Your Own Adventure*. Ea
 
 ## Relevant tutorials & tools
 
-- [Javascript syntax](http://learn-the-web.algonquindesign.ca/topics/javascript-syntax/)
-- [Document object model (DOM)](http://learn-the-web.algonquindesign.ca/topics/dom/)
-- [Javascript debugging](http://learn-the-web.algonquindesign.ca/topics/javascript-debugging/)
-- **[Javascript cheat sheet](http://learn-the-web.algonquindesign.ca/topics/http://learn-the-web.algonquindesign.ca/topics/javascript-cheat-sheet/)**
-- [Javascript checklist](http://learn-the-web.algonquindesign.ca/topics/http://learn-the-web.algonquindesign.ca/topics/javascript-checklist/)
+- [Javascript syntax](https://learntheweb.coures/topics/javascript-syntax/)
+- [Document object model (DOM)](https://learntheweb.coures/topics/dom/)
+- [Javascript debugging](https://learntheweb.coures/topics/javascript-debugging/)
+- **[Javascript cheat sheet](https://learntheweb.coures/topics/https://learntheweb.coures/topics/javascript-cheat-sheet/)**
+- [Javascript checklist](https://learntheweb.coures/topics/https://learntheweb.coures/topics/javascript-checklist/)
 
 ---
 
@@ -140,4 +140,4 @@ Create a interactive multiple choice story, like *Choose Your Own Adventure*. Ea
 
 ## Licenses & copyrights
 
-**[☛ Refer the the license & copyright statement](https://github.com/acgd-summer-reviews/meta#license--copyright-statement)**
+**[☛ Refer the the license & copyright statement](https://github.com/ltw-summer-reviews/meta#license--copyright-statement)**
